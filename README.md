@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Non Intrusive Load Monitoring System for the Estimation of Household Appliance Power Consumption.</h1>
 
-<p align="center"><img src="https://socialify.git.ci/ambigarnikhil/Non-Intrusive-Load-Monitoring-System-for-the-Estimation-of-Household-Appliance-Power-Consumption/image?description=1&amp;descriptionEditable=NILM%20is%20a%20process%20of%20estimating%20the%20energy%20consumed%20by%20individual%20appliances.&amp;font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://github.com/ambigarnikhil/Non-Intrusive-Load-Monitoring-System-for-the-Estimation-of-Household-Appliance-Power-Consumption/blob/main/title.png" alt="project-image"></p>
 
 <p id="description">“Process of estimating the energy consumed by individual appliances given just a whole-house power meter reading”</p>
 
